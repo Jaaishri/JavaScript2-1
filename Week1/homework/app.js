@@ -1,5 +1,5 @@
 
-
+'use strict';
 {
   const bookTitles = [
     // Replace with your own book titles
